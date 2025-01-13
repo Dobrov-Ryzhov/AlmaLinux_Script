@@ -26,7 +26,7 @@
 **Пример запуска:**
 
 ```bash
-python имя_скрипта.py
+python3.12 имя_скрипта.py
 ```
 **✉️ Обратная связь: itstudiolinux@gmail.com**
 
